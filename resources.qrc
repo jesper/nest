@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/login.svg</file>
+        <file>images/chat.svg</file>
+        <file>images/pencil.svg</file>
+        <file>images/fork-me.png</file>
+    </qresource>
+</RCC>
